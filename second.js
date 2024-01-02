@@ -47,7 +47,7 @@ const menus = [
   id: 1,
   title: 'Buttermilk pancakes',
   category: 'Breakfast',
-  img: './images/monika-grabkowska-jsgJtBOR6jY-unsplash_454747_CS-4070.jpg',
+  img: './monika-grabkowska-jsgJtBOR6jY-unsplash_454747_CS-4070.jpg',
   price: '$12',
   info: 'Delicate buttermilk pancakes, golden and fluffy, a blissful bite'
 },
@@ -56,7 +56,7 @@ const menus = [
   id: 2,
   title: 'Smoothie',
   category: 'Drinks',
-  img: './images/lyfefuel-sq5NM8l_bI0-unsplash_700135_CS-6525.jpg',
+  img: './lyfefuel-sq5NM8l_bI0-unsplash_700135_CS-6525.jpg',
   price: '$10',
   info: 'soothing taste of our power packed smoothie, blends from nutritous fruits, nuts and cream, satisfaction with each sip'
 },
@@ -65,7 +65,7 @@ const menus = [
   id: 3,
   title: 'Noodles',
   category: 'Lunch',
-  img: './images/ikhsan-baihaqi-pbc2wXbQYpI-unsplash_686852_SP-4322.jpg',
+  img: './ikhsan-baihaqi-pbc2wXbQYpI-unsplash_686852_SP-4322.jpg',
   price: '$20',
   info: 'the best noodles adventure! creating a bowl of perfection with each twirl.'
 },
@@ -74,7 +74,7 @@ const menus = [
   id: 4,
   title: 'Coffee',
   category: 'Breakfast',
-  img: './images/jeremy-yap-jn-HaGWe4yw-unsplash_307148_CS-1830.jpg',
+  img: './jeremy-yap-jn-HaGWe4yw-unsplash_307148_CS-1830.jpg',
   price: '$13',
   info: 'our coffee is made from freshly ground beans, a precise thta gives a harmonious experience for true coffee enthusiasts.'
 },
@@ -83,7 +83,7 @@ const menus = [
   id: 5,
   title: 'chicken',
   category: 'Lunch',
-  img: './images/eiliv-aceron-w0JzqJZYX_E-unsplash_497752_SP-3596.jpg',
+  img: './eiliv-aceron-w0JzqJZYX_E-unsplash_497752_SP-3596.jpg',
   price: '$40',
   info: 'Our rice and chicken dish, cooked with style and precision, a diet that transforms a simple meal into a cullinary delight'
 },
@@ -92,7 +92,7 @@ const menus = [
   id: 6,
   title: 'milkshake',
   category: 'Drinks',
-  img: './images/victor-rutka-4FujjkcI40g-unsplash_685379_CS-9564.jpg',
+  img: './victor-rutka-4FujjkcI40g-unsplash_685379_CS-9564.jpg',
   price: '$15',
   info: 'velvety ice cream and the perfect blend for a creamy concoction that dances on your taste buds with each sip'
 },
@@ -100,7 +100,7 @@ const menus = [
   id: 7,
   title: 'Hamburger',
   category: 'Lunch',
-  img: './images/pix2_635855_CS-3160.jpg',
+  img: './pix2_635855_CS-3160.jpg',
   price: '$10',
   info: 'velvety ice cream and the perfect blend for a creamy concoction that dances on your taste buds with each sip'
 },
@@ -108,7 +108,7 @@ const menus = [
   id: 8,
   title: 'Doughnuts',
   category: 'Breakfast',
-  img: './images/kobby-mendez-q54Oxq44MZs-unsplash_230092_CS-4302.jpg',
+  img: './kobby-mendez-q54Oxq44MZs-unsplash_230092_CS-4302.jpg',
   price: '$7',
   info: 'Fried to perfection, coated with an array of fine sugars and filled with luscious creams.'
 },
