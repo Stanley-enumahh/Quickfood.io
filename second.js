@@ -95,24 +95,7 @@ const menus = [
   img: './victor-rutka-4FujjkcI40g-unsplash_685379_CS-9564.jpg',
   price: '$15',
   info: 'velvety ice cream and the perfect blend for a creamy concoction that dances on your taste buds with each sip'
-},
-{
-  id: 7,
-  title: 'Hamburger',
-  category: 'Lunch',
-  img: './pix2_635855_CS-3160.jpg',
-  price: '$10',
-  info: 'velvety ice cream and the perfect blend for a creamy concoction that dances on your taste buds with each sip'
-},
-{
-  id: 8,
-  title: 'Doughnuts',
-  category: 'Breakfast',
-  img: './kobby-mendez-q54Oxq44MZs-unsplash_230092_CS-4302.jpg',
-  price: '$7',
-  info: 'Fried to perfection, coated with an array of fine sugars and filled with luscious creams.'
-},
-
+}
 ]
 
 const menuBox = document.querySelector('.menu-box');
